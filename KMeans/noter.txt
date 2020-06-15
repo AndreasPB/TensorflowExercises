@@ -1,0 +1,6 @@
+K Means Cluster
+    danner en mængde clusters ud fra dataen (eks 1-10/0-9 danner 10 clusters)
+    prøver at kategorisere data uden at få viden om hvad den skal opnå
+
+    flytter rundt på tyngdepunkter indtil data punkter ikke skal flyttes efterfølgende
+        tyngdepunkt i midten af punkterne fra af en kategori -> skæringspunkt -> se om data flyder over, hvis ja, repeat
